@@ -20,7 +20,7 @@ Don't forget to hit the :star: if you like this repo.
 - [Learning Log: Reflect on your skills and expectations](https://github.com/drshahizan/data-analytics/blob/main/materials/Learning-Log-Template_-Reflect-on-your-skills-and-expectations.docx)
 - [Variations of the data life cycle](https://github.com/drshahizan/data-analytics/blob/main/materials/variation-dlc.md)
 - [The data analysis process](https://github.com/drshahizan/data-analytics/blob/main/materials/The-data-analysis-process.pdf)
-
+- [Learning Log: Organize your data in a table]()
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/data-analytics/issues) for any improvements, suggestions or errors in the content.
 
