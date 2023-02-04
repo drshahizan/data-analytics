@@ -26,13 +26,24 @@ Don't forget to hit the :star: if you like this repo.
 - Data science: A field of study that uses raw data to create new ways of modeling and understanding the unknown 
 - Data strategy: The management of the people, processes, and tools used in data analysis
 - Data visualization: The graphical representation of data
+- Database: A collection of data stored in a computer system
 - Dataset: A collection of data that can be manipulated or analyzed as one unit 
+
+## F
+- Formula: A set of instructions used to perform a calculation using the data in a spreadsheet
+- Function: A preset command that automatically performs a specified process or task using the data in a spreadsheet
 
 ## G
 - Gap analysis: A method for examining and evaluating the current state of a process in order to identify opportunities for improvement in the future
 
+## Q
+- Query language: A computer programming language used to communicate with a database
+
 ## R
 - Root cause: The reason why a problem occurs
+
+## S
+- Stakeholders: People who invest time and resources into a project and are interested in its outcome
 
 ## T
 - Technical mindset: The ability to break things down into smaller steps or pieces and work with them in an orderly and logical way
