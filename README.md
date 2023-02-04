@@ -18,6 +18,7 @@ Don't forget to hit the :star: if you like this repo.
 - [The data analysis process](https://github.com/drshahizan/data-analytics/blob/main/materials/The-data-analysis-process.pdf)
 - [Self-Reflection: Collecting data](https://github.com/drshahizan/data-analytics/blob/main/materials/self-reflection1.md)
 - [Key data analyst tools](https://github.com/drshahizan/data-analytics/edit/main/materials/key-data-tools.md)
+- [Choosing the right tool for the job](https://github.com/drshahizan/data-analytics/blob/main/materials/right-tool.md)
 
 ### Learning Log
 1. [Think about data in daily life (Template)](https://github.com/drshahizan/data-analytics/blob/main/materials/Think-about-data-in-daily-life.docx)
