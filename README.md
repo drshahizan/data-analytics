@@ -9,6 +9,10 @@ Don't forget to hit the :star: if you like this repo.
 
 # Data Analytics
 
+## Introducing Data Analytics
+- [Think about data in daily life]()
+
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/data-analytics/issues) for any improvements, suggestions or errors in the content.
 
