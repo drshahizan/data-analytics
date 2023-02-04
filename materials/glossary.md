@@ -17,3 +17,10 @@ Data-driven decision-making: Using facts to guide business strategy
 Data ecosystem: The various elements that interact with one another in order to produce, manage, store, organize, analyze, and share data
 Data science: A field of study that uses raw data to create new ways of modeling and understanding the unknown 
 Dataset: A collection of data that can be manipulated or analyzed as one unit 
+
+## Contribution 🛠️
+Please create an [Issue](https://github.com/drshahizan/data-analytics/issues) for any improvements, suggestions or errors in the content.
+
+You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
+
+![](https://visitor-badge.glitch.me/badge?page_id=drshahizan)
