@@ -31,19 +31,19 @@ The data life cycle provides a generic or common framework for how data is manag
 ## U.S. Fish and Wildlife Service
 The U.S. Fish and Wildlife Service uses the following data life cycle:
 
-Plan
+1. Plan
 
-Acquire
+2. Acquire
 
-Maintain
+3. Maintain
 
-Access 
+4. Access 
 
-Evaluate
+5. Evaluate
 
-Archive
+6. Archive
 
-For more information, refer to U.S. Fish and Wildlife's Data Management Life Cycle page.
+For more information, refer to [U.S. Fish and Wildlife's Data Management Life Cycle](https://www.fws.gov/data/life-cycle) page.
 
 ## The U.S. Geological Survey (USGS)
 The USGS uses the data life cycle below:
