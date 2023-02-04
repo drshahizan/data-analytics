@@ -13,7 +13,7 @@ Don't forget to hit the :star: if you like this repo.
 - [Learning Log: Think about data in daily life (Template)](https://github.com/drshahizan/data-analytics/blob/main/materials/Think-about-data-in-daily-life.docx)
 - [Learning Log: Think about data in daily life (Example)](https://github.com/drshahizan/data-analytics/blob/main/materials/ExampleThink-about-data-in-daily-life.pdf)
 - [Case Study: New data perspectives](https://github.com/drshahizan/data-analytics/blob/main/materials/case-study1.md)
-- [Learning Log: Consider how data analysts approach tasks]()
+- [Learning Log: Consider how data analysts approach tasks](https://github.com/drshahizan/data-analytics/blob/main/materials/Learning-Log-Template_-Consider-how-data-analysts-approach-tasks.docx)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/data-analytics/issues) for any improvements, suggestions or errors in the content.
