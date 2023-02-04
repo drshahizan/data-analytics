@@ -6,25 +6,25 @@ When you decided to join this program, you proved that you are a curious person.
 A group of co-workers sitting at a table having a discussion. There is a board behind them with several post-it notes.
 We also know that data analysis is rooted in statistics, which has a pretty long history itself. Archaeologists mark the start of statistics in ancient Egypt with the building of the pyramids. The ancient Egyptians were masters of organizing data. They documented their calculations and theories on papyri (paper-like materials), which are now viewed as the earliest examples of spreadsheets and checklists. Today’s data analysts owe a lot to those brilliant scribes, who helped create a more technical and efficient process.
 
-It is time to enter the data analysis life cycle—the process of going from data to decision. Data goes through several phases as it gets created, consumed, tested, processed, and reused. With a life cycle model, all key team members can drive success by planning work both up front and at the end of the data analysis process. While the data analysis life cycle is well known among experts, there isn't a single defined structure of those phases. There might not be one single architecture that’s uniformly followed by every data analysis expert, but there are some shared fundamentals in every data analysis process. This reading provides an overview of several, starting with the process that forms the foundation of the Google Data Analytics Certificate.
+It is time to enter the **data analysis life cycle—the process** of going from data to decision. Data goes through several phases as it gets created, consumed, tested, processed, and reused. With a life cycle model, all key team members can drive success by planning work both up front and at the end of the data analysis process. While the data analysis life cycle is well known among experts, there isn't a single defined structure of those phases. There might not be one single architecture that’s uniformly followed by every data analysis expert, but there are some shared fundamentals in every data analysis process. This reading provides an overview of several, starting with the process that forms the foundation of the Google Data Analytics Certificate.
 
 The process presented as part of the Google Data Analytics Certificate is one that will be valuable to you as you keep moving forward in your career:
 
-Ask: Business Challenge/Objective/Question
+1. Ask: Business Challenge/Objective/Question
 
-Prepare: Data generation, collection, storage, and data management
+2. Prepare: Data generation, collection, storage, and data management
 
-Process: Data cleaning/data integrity
+3. Process: Data cleaning/data integrity
 
-Analyze: Data exploration, visualization, and analysis
+4. Analyze: Data exploration, visualization, and analysis
 
-Share: Communicating and interpreting results 
+5. Share: Communicating and interpreting results 
 
-Act:  Putting your insights to work to solve the problem
+6. Act:  Putting your insights to work to solve the problem
 
 Understanding this process—and all of the iterations that helped make it popular—will be a big part of guiding your own analysis and your work in this program. Let’s go over a few other variations of the data analysis life cycle.
 
-EMC's data analysis life cycle
+## EMC's data analysis life cycle
 EMC Corporation's data analytics life cycle is cyclical with six steps:
 
 Discovery
