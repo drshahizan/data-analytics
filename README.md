@@ -10,7 +10,8 @@ Don't forget to hit the :star: if you like this repo.
 # Data Analytics
 
 ## Introducing Data Analytics
-- [Learning Log: Think about data in daily life](https://github.com/drshahizan/data-analytics/blob/main/materials/Think-about-data-in-daily-life.docx)
+- [Learning Log: Think about data in daily life (Template)](https://github.com/drshahizan/data-analytics/blob/main/materials/Think-about-data-in-daily-life.docx)
+- [Learning Log: Think about data in daily life (Example)](https://github.com/drshahizan/data-analytics/blob/main/materials/ExampleThink-about-data-in-daily-life.pdf)
 
 
 ## Contribution 🛠️
