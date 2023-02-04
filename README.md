@@ -16,6 +16,7 @@ Don't forget to hit the :star: if you like this repo.
 - [Glossary: Data Analytics](https://github.com/drshahizan/data-analytics/blob/main/materials/glossary.md)
 - [Variations of the data life cycle](https://github.com/drshahizan/data-analytics/blob/main/materials/variation-dlc.md)
 - [The data analysis process](https://github.com/drshahizan/data-analytics/blob/main/materials/The-data-analysis-process.pdf)
+- [Self-Reflection: Collecting data](https://github.com/drshahizan/data-analytics/blob/main/materials/self-reflection1.md)
 
 ### Learning Log
 1. [Think about data in daily life (Template)](https://github.com/drshahizan/data-analytics/blob/main/materials/Think-about-data-in-daily-life.docx)
