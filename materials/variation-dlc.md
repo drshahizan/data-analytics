@@ -26,7 +26,7 @@ You learned that there are six stages to the data life cycle. Here is a recap:
 
 **Warning:** Be careful not to mix up or confuse the six stages of the data life cycle (Plan, Capture, Manage, Analyze, Archive, and Destroy) with the six phases of the data analysis life cycle (Ask, Prepare, Process, Analyze, Share, and Act). They shouldn't be used or referred to interchangeably.
 
-The data life cycle provides a generic or common framework for how data is managed. You may recall that variations of the data analysis life cycle were described in Origins of the data analysis process. The same can be done for the data life cycle. The rest of this reading provides a glimpse of how government, finance, and education institutions can view data life cycles a little differently.
+The data life cycle provides a generic or common framework for how data is managed. You may recall that variations of the data analysis life cycle were described in [Origins of the data analysis process](./origin-data-analysis.md). The same can be done for the data life cycle. The rest of this reading provides a glimpse of how government, finance, and education institutions can view data life cycles a little differently.
 
 ## U.S. Fish and Wildlife Service
 The U.S. Fish and Wildlife Service uses the following data life cycle:
