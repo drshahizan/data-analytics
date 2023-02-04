@@ -16,32 +16,33 @@ Before responding to the question, you consider each step of the data life cycle
 
 The steps of the data life cycle are:
 
-Plan: What plans and decisions do you need to make? What data do you need to answer your question?
+- Plan: What plans and decisions do you need to make? What data do you need to answer your question?
 
-Capture: Where does your data come from? How will you get it?
+- Capture: Where does your data come from? How will you get it?
 
-Manage: How will you store your data? What should it be used for? How do you keep this data secure and protected?
+- Manage: How will you store your data? What should it be used for? How do you keep this data secure and protected?
 
-Analyze: How will the company analyze the data? What tools should they use?
+- Analyze: How will the company analyze the data? What tools should they use?
 
-Archive: What should they do with their data when it gets old? How do they know when it's time?
+- Archive: What should they do with their data when it gets old? How do they know when it's time?
 
-Destroy: Should they ever dispose of any data? If so, when and how?
+- Destroy: Should they ever dispose of any data? If so, when and how?
 
 ## Reflection
 
 Consider your learning about the steps of the data life cycle and reflect on the hiring manager’s request. Review the following questions to help guide your thinking: 
 
-What kind of data should they gather? 
+- What kind of data should they gather? 
 
-How should they gather this data? 
+- How should they gather this data? 
 
-Where will the data live? How will they store the data?
+- Where will the data live? How will they store the data?
 
-Once they have the data, how will they use it? 
+- Once they have the data, how will they use it? 
 
-How do they keep their data secure and protected? 
+- How do they keep their data secure and protected? 
 
-What should they do with old data? What are their options?
+- What should they do with old data? What are their options?
+-
 
 In the text box below, write 2-3 sentences (40-60 words) that explains your recommendation for how the ice cream company should collect customer flavor preference data. 
