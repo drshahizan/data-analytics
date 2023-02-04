@@ -19,6 +19,7 @@ Don't forget to hit the :star: if you like this repo.
 - [Learning Log: Explore data from your daily life](https://github.com/drshahizan/data-analytics/blob/main/materials/Learning-Log-Template_-Explore-data-from-your-daily-life.docx)
 - [Learning Log: Reflect on your skills and expectations](https://github.com/drshahizan/data-analytics/blob/main/materials/Learning-Log-Template_-Reflect-on-your-skills-and-expectations.docx)
 - [Variations of the data life cycle](https://github.com/drshahizan/data-analytics/blob/main/materials/variation-dlc.md)
+- [The data analysis process and this program]()
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/data-analytics/issues) for any improvements, suggestions or errors in the content.
