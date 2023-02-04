@@ -45,9 +45,9 @@ These tools
 
 - Have multiple features 
 
-    - Tableau's simple drag-and-drop feature lets users create interactive graphs in dashboards and worksheets 
+    - **Tableau**'s simple drag-and-drop feature lets users create interactive graphs in dashboards and worksheets 
 
-    - Looker communicates directly with a database, allowing you to connect your data right to the visual tool you choose 
+    - **Looker** communicates directly with a database, allowing you to connect your data right to the visual tool you choose 
 
 A career as a data analyst also involves using programming languages, like R and Python, which are used a lot for statistical analysis, visualization, and other data analysis.
 
