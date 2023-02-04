@@ -15,6 +15,7 @@ Don't forget to hit the :star: if you like this repo.
 - [Case Study: New data perspectives](https://github.com/drshahizan/data-analytics/blob/main/materials/case-study1.md)
 - [Learning Log: Consider how data analysts approach tasks](https://github.com/drshahizan/data-analytics/blob/main/materials/Learning-Log-Template_-Consider-how-data-analysts-approach-tasks.docx)
 - [Origins of the data analysis process](https://github.com/drshahizan/data-analytics/blob/main/materials/origin-data-analysis.md)
+- [Glossary: Data Analytics](https://github.com/drshahizan/data-analytics/blob/main/materials/glossary.md)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/data-analytics/issues) for any improvements, suggestions or errors in the content.
