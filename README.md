@@ -10,17 +10,20 @@ Don't forget to hit the :star: if you like this repo.
 # Data Analytics
 
 ## Introducing Data Analytics
-- [Learning Log: Think about data in daily life (Template)](https://github.com/drshahizan/data-analytics/blob/main/materials/Think-about-data-in-daily-life.docx)
-- [Learning Log: Think about data in daily life (Example)](https://github.com/drshahizan/data-analytics/blob/main/materials/ExampleThink-about-data-in-daily-life.pdf)
 - [Case Study: New data perspectives](https://github.com/drshahizan/data-analytics/blob/main/materials/case-study1.md)
 - [Learning Log: Consider how data analysts approach tasks](https://github.com/drshahizan/data-analytics/blob/main/materials/Learning-Log-Template_-Consider-how-data-analysts-approach-tasks.docx)
 - [Origins of the data analysis process](https://github.com/drshahizan/data-analytics/blob/main/materials/origin-data-analysis.md)
 - [Glossary: Data Analytics](https://github.com/drshahizan/data-analytics/blob/main/materials/glossary.md)
-- [Learning Log: Explore data from your daily life](https://github.com/drshahizan/data-analytics/blob/main/materials/Learning-Log-Template_-Explore-data-from-your-daily-life.docx)
-- [Learning Log: Reflect on your skills and expectations](https://github.com/drshahizan/data-analytics/blob/main/materials/Learning-Log-Template_-Reflect-on-your-skills-and-expectations.docx)
 - [Variations of the data life cycle](https://github.com/drshahizan/data-analytics/blob/main/materials/variation-dlc.md)
 - [The data analysis process](https://github.com/drshahizan/data-analytics/blob/main/materials/The-data-analysis-process.pdf)
-- [Learning Log: Organize your data in a table]()
+
+### Learning Log
+1. [Think about data in daily life (Template)](https://github.com/drshahizan/data-analytics/blob/main/materials/Think-about-data-in-daily-life.docx)
+2. [Think about data in daily life (Example)](https://github.com/drshahizan/data-analytics/blob/main/materials/ExampleThink-about-data-in-daily-life.pdf)
+3. [Explore data from your daily life](https://github.com/drshahizan/data-analytics/blob/main/materials/Learning-Log-Template_-Explore-data-from-your-daily-life.docx)
+4. [Reflect on your skills and expectations](https://github.com/drshahizan/data-analytics/blob/main/materials/Learning-Log-Template_-Reflect-on-your-skills-and-expectations.docx)
+5. [Organize your data in a table](https://github.com/drshahizan/data-analytics/blob/main/materials/Learning-Log-Template_-Organize-your-data-in-a-table.docx)
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/data-analytics/issues) for any improvements, suggestions or errors in the content.
 
