@@ -105,3 +105,10 @@ Visualization
 Interpretation
 
 For more information, refer to 8 Steps in the Data Life Cycle. 
+
+## Contribution 🛠️
+Please create an [Issue](https://github.com/drshahizan/data-analytics/issues) for any improvements, suggestions or errors in the content.
+
+You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
+
+![](https://visitor-badge.glitch.me/badge?page_id=drshahizan)
