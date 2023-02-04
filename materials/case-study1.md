@@ -66,11 +66,11 @@ The group knew it was important to document exactly what they found in the analy
 ## Share
 Just as they made sure the data was carefully protected, the analysts were also careful sharing the report. This is how they shared their findings:
 
-They shared the report with managers who met or exceeded the minimum number of direct reports with submitted responses to the survey. 
+- They shared the report with managers who met or exceeded the minimum number of direct reports with submitted responses to the survey. 
 
-They presented the results to the managers to make sure they had the full picture. 
+- They presented the results to the managers to make sure they had the full picture. 
 
-They asked the managers to personally deliver the results to their teams. 
+- They asked the managers to personally deliver the results to their teams. 
 
 This process gave managers an opportunity to communicate the results with the right context. As a result, they could have productive team conversations about next steps to improve employee engagement. 
 
@@ -85,3 +85,10 @@ A year later, the same survey was distributed to employees. Analysts anticipated
 
 ### Is people analytics right for you?
 One of the many things that makes data analytics so exciting is that the problems are always different, the solutions need creativity, and the impact on others can be great — even life-changing or life-saving. As a data analyst, you can be part of these efforts. Maybe you’re even inspired to learn more about the field of people analytics. If so, consider learning more about this field and adding that research to your data analytics journal. You never know: One day soon, you could be helping a company create an amazing work environment for you and your colleagues!
+
+## Contribution 🛠️
+Please create an [Issue](https://github.com/drshahizan/data-analytics/issues) for any improvements, suggestions or errors in the content.
+
+You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
+
+![](https://visitor-badge.glitch.me/badge?page_id=drshahizan)
