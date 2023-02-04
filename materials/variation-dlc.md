@@ -8,6 +8,8 @@
 Don't forget to hit the :star: if you like this repo.
 
 # Variations of the data life cycle
+[Source](https://www.coursera.org/learn/foundations-data/supplement/DoiXy/variations-of-the-data-life-cycle)
+
 You learned that there are six stages to the data life cycle. Here is a recap:
 
 1. Plan: Decide what kind of data is needed, how it will be managed, and who will be responsible for it.
@@ -22,11 +24,11 @@ You learned that there are six stages to the data life cycle. Here is a recap:
 
 6. Destroy: Remove data from storage and delete any shared copies of the data.
 
-Warning: Be careful not to mix up or confuse the six stages of the data life cycle (Plan, Capture, Manage, Analyze, Archive, and Destroy) with the six phases of the data analysis life cycle (Ask, Prepare, Process, Analyze, Share, and Act). They shouldn't be used or referred to interchangeably.
+**Warning:** Be careful not to mix up or confuse the six stages of the data life cycle (Plan, Capture, Manage, Analyze, Archive, and Destroy) with the six phases of the data analysis life cycle (Ask, Prepare, Process, Analyze, Share, and Act). They shouldn't be used or referred to interchangeably.
 
 The data life cycle provides a generic or common framework for how data is managed. You may recall that variations of the data analysis life cycle were described in Origins of the data analysis process. The same can be done for the data life cycle. The rest of this reading provides a glimpse of how government, finance, and education institutions can view data life cycles a little differently.
 
-U.S. Fish and Wildlife Service
+## U.S. Fish and Wildlife Service
 The U.S. Fish and Wildlife Service uses the following data life cycle:
 
 Plan
@@ -43,68 +45,68 @@ Archive
 
 For more information, refer to U.S. Fish and Wildlife's Data Management Life Cycle page.
 
-The U.S. Geological Survey (USGS)
+## The U.S. Geological Survey (USGS)
 The USGS uses the data life cycle below:
 
-Plan
+1. Plan
 
-Acquire
+2. Acquire
 
-Process
+3. Process
 
-Analyze
+4. Analyze
 
-Preserve
+5. Preserve
 
-Publish/Share
+6. Publish/Share
 
 Several cross-cutting or overarching activities are also performed during each stage of their life cycle:
 
-Describe (metadata and documentation)
+- Describe (metadata and documentation)
 
-Manage Quality
+- Manage Quality
 
-Backup and Secure
+- Backup and Secure
 
-For more information, refer to the USGS Data Lifecycle page.
+For more information, refer to the [USGS Data Lifecycle](https://www.usgs.gov/data-management/data-lifecycle) page.
 
-Financial institutions
-Financial institutions may take a slightly different approach to the data life cycle as described in The Data Life Cycle, an article in Strategic Finance magazine:
+## Financial institutions
+Financial institutions may take a slightly different approach to the data life cycle as described in [The Data Life Cycle](https://sfmagazine.com/articles/2018/july/the-data-life-cycle/), an article in Strategic Finance magazine:
 
-Capture
+1. Capture
 
-Qualify
+2. Qualify
 
-Transform
+3. Transform
 
-Utilize
+4. Utilize
 
-Report
+5. Report
 
-Archive
+6. Archive
 
-Purge
+7. Purge
 
-Harvard Business School (HBS)
+## Harvard Business School (HBS)
 One final data life cycle informed by Harvard University research has eight stages:
 
-Generation
+1. Generation
 
-Collection
+2. Collection
 
-Processing
+3. Processing
 
-Storage 
+4. Storage 
 
-Management
+5. Management
 
-Analysis
+6. Analysis
 
-Visualization
+7. Visualization
 
-Interpretation
+8. Interpretation
 
-For more information, refer to 8 Steps in the Data Life Cycle. 
+For more information, refer to [8 Steps in the Data Life Cycle](https://online.hbs.edu/blog/post/data-life-cycle). 
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/data-analytics/issues) for any improvements, suggestions or errors in the content.
