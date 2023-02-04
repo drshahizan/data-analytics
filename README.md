@@ -17,6 +17,7 @@ Don't forget to hit the :star: if you like this repo.
 - [Origins of the data analysis process](https://github.com/drshahizan/data-analytics/blob/main/materials/origin-data-analysis.md)
 - [Glossary: Data Analytics](https://github.com/drshahizan/data-analytics/blob/main/materials/glossary.md)
 - [Learning Log: Explore data from your daily life](https://github.com/drshahizan/data-analytics/blob/main/materials/Learning-Log-Template_-Explore-data-from-your-daily-life.docx)
+- [Learning Log: Reflect on your skills and expectations](https://github.com/drshahizan/data-analytics/blob/main/materials/Learning-Log-Template_-Reflect-on-your-skills-and-expectations.docx)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/data-analytics/issues) for any improvements, suggestions or errors in the content.
