@@ -11,13 +11,13 @@ Don't forget to hit the :star: if you like this repo.
 
 ## Introducing Data Analytics
 - [Case Study: New data perspectives](./module%201/case-study1.md)
-- [Learning Log: Consider how data analysts approach tasks](https://github.com/drshahizan/data-analytics/blob/main/module%201/Learning-Log-Template_-Consider-how-data-analysts-approach-tasks.docx)
-- [Origins of the data analysis process](https://github.com/drshahizan/data-analytics/blob/main/module%201/origin-data-analysis.md)
-- [Glossary: Data Analytics](https://github.com/drshahizan/data-analytics/blob/main/module%201/glossary.md)
-- [Variations of the data life cycle](https://github.com/drshahizan/data-analytics/blob/main/module%201/variation-dlc.md)
-- [The data analysis process](https://github.com/drshahizan/data-analytics/blob/main/module%201/The-data-analysis-process.pdf)
-- [Key data analyst tools](https://github.com/drshahizan/data-analytics/edit/main/module%201/key-data-tools.md)
-- [Choosing the right tool for the job](https://github.com/drshahizan/data-analytics/blob/main/module%201/right-tool.md)
+- [Learning Log: Consider how data analysts approach tasks](./module%201/Learning-Log-Template_-Consider-how-data-analysts-approach-tasks.docx)
+- [Origins of the data analysis process](./module%201/origin-data-analysis.md)
+- [Glossary: Data Analytics](./module%201/glossary.md)
+- [Variations of the data life cycle](./module%201/variation-dlc.md)
+- [The data analysis process](./module%201/The-data-analysis-process.pdf)
+- [Key data analyst tools](./main/module%201/key-data-tools.md)
+- [Choosing the right tool for the job](./module%201/right-tool.md)
 
 ### Learning Log
 1. [Think about data in daily life (Template)](https://github.com/drshahizan/data-analytics/blob/main/materials/Think-about-data-in-daily-life.docx)
