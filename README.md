@@ -20,15 +20,15 @@ Don't forget to hit the :star: if you like this repo.
 - [Choosing the right tool for the job](./module%201/right-tool.md)
 
 ### Learning Log
-1. [Think about data in daily life (Template)](https://github.com/drshahizan/data-analytics/blob/main/materials/Think-about-data-in-daily-life.docx)
-2. [Think about data in daily life (Example)](https://github.com/drshahizan/data-analytics/blob/main/materials/ExampleThink-about-data-in-daily-life.pdf)
-3. [Explore data from your daily life](https://github.com/drshahizan/data-analytics/blob/main/materials/Learning-Log-Template_-Explore-data-from-your-daily-life.docx)
-4. [Reflect on your skills and expectations](https://github.com/drshahizan/data-analytics/blob/main/materials/Learning-Log-Template_-Reflect-on-your-skills-and-expectations.docx)
-5. [Organize your data in a table](https://github.com/drshahizan/data-analytics/blob/main/materials/Learning-Log-Template_-Organize-your-data-in-a-table.docx)
+1. [Think about data in daily life (Template)](./module%201/Think-about-data-in-daily-life.docx)
+2. [Think about data in daily life (Example)](./module%201/ExampleThink-about-data-in-daily-life.pdf)
+3. [Explore data from your daily life](./module%201/Learning-Log-Template_-Explore-data-from-your-daily-life.docx)
+4. [Reflect on your skills and expectations](./module%201/Learning-Log-Template_-Reflect-on-your-skills-and-expectations.docx)
+5. [Organize your data in a table](./module%201/Learning-Log-Template_-Organize-your-data-in-a-table.docx)
 
 ### Self-Reflection
-- [Collecting data](https://github.com/drshahizan/data-analytics/blob/main/materials/self-reflection1.md)
-- [Reviewing past concepts](https://github.com/drshahizan/data-analytics/blob/main/materials/self-reflection2.md)
+- [Collecting data](./module%201/self-reflection1.md)
+- [Reviewing past concepts](./module%201/self-reflection2.md)
 
 
 ## Contribution 🛠️
