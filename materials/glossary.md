@@ -14,6 +14,9 @@ Don't forget to hit the :star: if you like this repo.
 - Analytical thinking: The process of identifying and defining a problem, then solving it by using data in an organized, step-by-step manner
 - Attribute: A characteristic or quality of data used to label a column in a table
 
+## B
+- Business task: The question or problem data analysis resolves for a business
+
 ## C
 - Context: The condition in which something exists or happens
 
@@ -33,11 +36,15 @@ Don't forget to hit the :star: if you like this repo.
 - Dataset: A collection of data that can be manipulated or analyzed as one unit 
 
 ## F
+- Fairness: A quality of data analysis that does not create or reinforce bias
 - Formula: A set of instructions used to perform a calculation using the data in a spreadsheet
 - Function: A preset command that automatically performs a specified process or task using the data in a spreadsheet
 
 ## G
 - Gap analysis: A method for examining and evaluating the current state of a process in order to identify opportunities for improvement in the future
+
+## O
+- Observation: The attributes that describe a piece of data contained in a row of a table
 
 ## Q
 - Query: A request for data or information from a database
