@@ -10,7 +10,7 @@ Don't forget to hit the :star: if you like this repo.
 # Data Analytics
 
 ## Introducing Data Analytics
-- [Case Study: New data perspectives](https://github.com/drshahizan/data-analytics/blob/main/module%201/case-study1.md)
+- [Case Study: New data perspectives](./module%201/case-study1.md)
 - [Learning Log: Consider how data analysts approach tasks](https://github.com/drshahizan/data-analytics/blob/main/module%201/Learning-Log-Template_-Consider-how-data-analysts-approach-tasks.docx)
 - [Origins of the data analysis process](https://github.com/drshahizan/data-analytics/blob/main/module%201/origin-data-analysis.md)
 - [Glossary: Data Analytics](https://github.com/drshahizan/data-analytics/blob/main/module%201/glossary.md)
