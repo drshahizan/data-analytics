@@ -12,6 +12,7 @@ Don't forget to hit the :star: if you like this repo.
 ## A
 - Analytical skills: Qualities and characteristics associated with using facts to solve problems 
 - Analytical thinking: The process of identifying and defining a problem, then solving it by using data in an organized, step-by-step manner
+- Attribute: A characteristic or quality of data used to label a column in a table
 
 ## C
 - Context: The condition in which something exists or happens
@@ -21,9 +22,11 @@ Don't forget to hit the :star: if you like this repo.
 - Data analysis: The collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive informed decision-making
 - Data analyst: Someone who collects, transforms, and organizes data in order to drive informed decision-making
 - Data analytics: The science of data
+- Data design: How information is organized
 - Data-driven decision-making: Using facts to guide business strategy
 - Data ecosystem: The various elements that interact with one another in order to produce, manage, store, organize, analyze, and share data
 - Data science: A field of study that uses raw data to create new ways of modeling and understanding the unknown 
+- Data strategy: The management of the people, processes, and tools used in data analysis
 - Data strategy: The management of the people, processes, and tools used in data analysis
 - Data visualization: The graphical representation of data
 - Database: A collection of data stored in a computer system
@@ -37,6 +40,7 @@ Don't forget to hit the :star: if you like this repo.
 - Gap analysis: A method for examining and evaluating the current state of a process in order to identify opportunities for improvement in the future
 
 ## Q
+- Query: A request for data or information from a database
 - Query language: A computer programming language used to communicate with a database
 
 ## R
