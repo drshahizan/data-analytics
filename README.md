@@ -11,6 +11,7 @@ Don't forget to hit the :star: if you like this repo.
 
 ## Introducing Data Analytics
 - [Case Study: New data perspectives](./module%201/case-study1.md)
+- [MIcrosoft: Data Science for Beginners - A Curriculum](https://microsoft.github.io/Data-Science-For-Beginners/#/)
 - [The ChatGPT prompts any data scientist must use](https://medium.datadriveninvestor.com/the-chatgpt-prompts-any-data-scientist-must-use-5921867fd74e)
 - [Learning Log: Consider how data analysts approach tasks](./module%201/Learning-Log-Template_-Consider-how-data-analysts-approach-tasks.docx)
 - [Origins of the data analysis process](./module%201/origin-data-analysis.md)
